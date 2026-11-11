@@ -1,6 +1,6 @@
 ---
 name: code-like-me
-description: Use when implementing, refactoring, or reviewing my code, or when asked to follow personal coding and architecture habits. 适用于个人编码风格、架构取舍和 AI 代码 Review；Java/Spring 细节仅在相应技术栈下使用，不用于普通笔记改写或强制技术选型。
+description: Use when developing, implementing, refactoring, or reviewing my code, or when asked to follow personal coding and architecture habits. 适用于个人日常开发的场景；Java/Spring 细节仅在相应技术栈下使用，不用于普通笔记改写或强制技术选型。
 ---
 
 # 个人编码与架构习惯
